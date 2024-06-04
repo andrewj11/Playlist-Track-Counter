@@ -1,0 +1,31 @@
+i have a table that contains my listening history. it contains all song ids that I have listened to recently and the number of times they have been played.
+
+Can make a bar graph or table showing song name and plays
+    would need to convert song id to song name
+
+want to break down song plays by playlist
+
+what do I want included in my dashboard?
+
+    top songs
+    top songs per playlist
+    average 
+    pie chart of genres
+    listening througout the day historgram
+
+
+
+
+
+USE SETS!!!! THEY LITERALLY DONT ALLOW DUPLIACATES AND ARE (I THINK AT LEAST) SMALLER AND LESS INTENSIVE!!!
+    The symmetric_difference() method keeps all items EXCEPT the duplicates.
+    The difference() method will return a new set that will contain only the items from the first set that are not present in the other set.
+    using setname.add() will not allow duplicates to be shown in the set
+    
+dictionary info:
+    The update() method will update the dictionary with the items from a given argument. If the item does not exist, the item will be added.
+
+classes info:
+    use __init__() to assign values to ojbejct properties
+        pretty much say what is in each class. define the variables
+    
